@@ -1,0 +1,4 @@
+[0407/235657.371:ERROR:process_reader_win.cc(123)] NtOpenThread: {Pøístup byl odepøen} Proces požadoval pøístup k objektu, ale nebyla mu udìlena odpovídající pøístupová práva. (0xc0000022)
+[0407/235657.373:ERROR:exception_snapshot_win.cc(98)] thread ID 22656 not found in process
+[0407/235657.397:ERROR:process_reader_win.cc(123)] NtOpenThread: {Pøístup byl odepøen} Proces požadoval pøístup k objektu, ale nebyla mu udìlena odpovídající pøístupová práva. (0xc0000022)
+[0407/235657.397:ERROR:exception_snapshot_win.cc(98)] thread ID 15860 not found in process
